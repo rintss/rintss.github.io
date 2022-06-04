@@ -1,4 +1,4 @@
-baseURL = 'https://rintss.github.io'
+baseURL = 'https://github.com/rintss/rintss.github.io'
 languageCode = 'en-us'
 title = 'Glaskugel'
 theme = "hugo-theme-stack" 
